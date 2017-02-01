@@ -1,5 +1,7 @@
 # Icons
 This library provides free Modelica icons for different Modelica (packages, models, ...) classes. 
+
+Please feel free to make a pull request in case you want to provide your icons to this Modelica library.
  
 # License
 
