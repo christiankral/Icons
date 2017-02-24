@@ -4,37 +4,37 @@ partial package Components "Package containing components"
 
   annotation (Icon(graphics={
         Rectangle(
-          extent={{-60,40},{60,-40}},
+          extent={{-80,54},{80,-54}},
           lineColor={0,0,0},
           fillColor={170,213,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{-50,32},{-28,10}},
+          extent={{-16,40},{16,8}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{-10,32},{12,10}},
+          extent={{-64,40},{-32,8}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{30,32},{52,10}},
+          extent={{34,40},{66,8}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{-52,-10},{-30,-32}},
+          extent={{-64,-8},{-32,-40}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{-10,-10},{12,-32}},
+          extent={{-16,-8},{16,-40}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid),
         Ellipse(
-          extent={{30,-10},{52,-32}},
+          extent={{34,-8},{66,-40}},
           lineColor={0,0,0},
           fillColor={85,170,255},
           fillPattern=FillPattern.Solid)}));
